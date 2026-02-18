@@ -34,14 +34,52 @@ const PRODUCTS = [
   // Automotiva
   { id: 23, name: 'Automotiva 01', url: 'https://estetica-automotiva-01.vercel.app/', category: 'Automotiva', icon: 'car' },
   { id: 24, name: 'Automotiva 02', url: 'https://estetica-automotiva-02.vercel.app/', category: 'Automotiva', icon: 'car' },
-  
+  { id: 25, name: 'Automotiva 03', url: 'https://estetica-automotiva-03.vercel.app/', category: 'Automotiva', icon: 'car' },
+  { id: 26, name: 'Automotiva 04', url: 'https://estetica-automotiva-04.vercel.app/', category: 'Automotiva', icon: 'car' },
+  { id: 27, name: 'Automotiva 05', url: 'https://estetica-automotiva-05.vercel.app/', category: 'Automotiva', icon: 'car' },
+  { id: 28, name: 'Automotiva 06', url: 'https://estetica-automotiva-06.vercel.app/', category: 'Automotiva', icon: 'car' },
+  { id: 29, name: 'Automotiva 07', url: 'https://estetica-automotiva-07.vercel.app/', category: 'Automotiva', icon: 'car' },
+  { id: 30, name: 'Automotiva 08', url: 'https://estetica-automotiva-08.vercel.app/', category: 'Automotiva', icon: 'car' },
+  { id: 31, name: 'Automotiva 09', url: 'https://estetica-automotiva-09.vercel.app/', category: 'Automotiva', icon: 'car' },
+  { id: 32, name: 'Automotiva 10', url: 'https://estetica-automotiva-10.vercel.app/', category: 'Automotiva', icon: 'car' },
+  { id: 33, name: 'Automotiva 11', url: 'https://estetica-automotiva-11.vercel.app/', category: 'Automotiva', icon: 'car' },
+  { id: 34, name: 'Automotiva 12', url: 'https://estetica-automotiva-12.vercel.app/', category: 'Automotiva', icon: 'car' },
+  { id: 35, name: 'Automotiva 13', url: 'https://estetica-automotiva-13.vercel.app/', category: 'Automotiva', icon: 'car' },
+  { id: 36, name: 'Automotiva 14', url: 'https://estetica-automotiva-14.vercel.app/', category: 'Automotiva', icon: 'car' },
+  { id: 37, name: 'Automotiva 15', url: 'https://estetica-automotiva-15.vercel.app/', category: 'Automotiva', icon: 'car' },
+  { id: 38, name: 'Automotiva 16', url: 'https://estetica-automotiva-16.vercel.app/', category: 'Automotiva', icon: 'car' },
+  { id: 39, name: 'Automotiva 17', url: 'https://estetica-automotiva-17.vercel.app/', category: 'Automotiva', icon: 'car' },
+  { id: 40, name: 'Automotiva 18', url: 'https://estetica-automotiva-18.vercel.app/', category: 'Automotiva', icon: 'car' },
+
   // Mecânica
   { id: 25, name: 'Mecânica 01', url: 'https://mecanica-01.vercel.app/', category: 'Mecânica', icon: 'wrench' },
   { id: 26, name: 'Mecânica 02', url: 'https://mecanica-02.vercel.app/', category: 'Mecânica', icon: 'wrench' },
+  { id: 27, name: 'Mecânica 03', url: 'https://mecanica-03.vercel.app/', category: 'Mecânica', icon: 'wrench' },
+  { id: 28, name: 'Mecânica 04', url: 'https://mecanica-04.vercel.app/', category: 'Mecânica', icon: 'wrench' },
+  { id: 29, name: 'Mecânica 05', url: 'https://mecanica-05.vercel.app/', category: 'Mecânica', icon: 'wrench' },
+  { id: 30, name: 'Mecânica 06', url: 'https://mecanica-06.vercel.app/', category: 'Mecânica', icon: 'wrench' },
+  { id: 31, name: 'Mecânica 07', url: 'https://mecanica-07.vercel.app/', category: 'Mecânica', icon: 'wrench' },
+  { id: 32, name: 'Mecânica 08', url: 'https://mecanica-08.vercel.app/', category: 'Mecânica', icon: 'wrench' },
+  { id: 33, name: 'Mecânica 09', url: 'https://mecanica-09.vercel.app/', category: 'Mecânica', icon: 'wrench' },
+  { id: 34, name: 'Mecânica 10', url: 'https://mecanica-10.vercel.app/', category: 'Mecânica', icon: 'wrench' },
+  { id: 35, name: 'Mecânica 11', url: 'https://mecanica-11.vercel.app/', category: 'Mecânica', icon: 'wrench' },
+  { id: 36, name: 'Mecânica 12', url: 'https://mecanica-12.vercel.app/', category: 'Mecânica', icon: 'wrench' },
+  { id: 37, name: 'Mecânica 13', url: 'https://mecanica-13.vercel.app/', category: 'Mecânica', icon: 'wrench' },
+  { id: 38, name: 'Mecânica 14', url: 'https://mecanica-14.vercel.app/', category: 'Mecânica', icon: 'wrench' },
+  { id: 39, name: 'Mecânica 15', url: 'https://mecanica-15.vercel.app/', category: 'Mecânica', icon: 'wrench' },
 
   // Projetos Especiais
-  { id: 27, name: 'Casa da Esfiha', url: 'https://casa-da-esfiha.vercel.app/', category: 'Especiais', icon: 'pizza' },
-  { id: 28, name: 'Site Profissional', url: 'https://site-profissional.vercel.app/', category: 'Portfolio', icon: 'globe' },
+  { id: 40, name: 'Casa da Esfiha', url: 'https://casa-da-esfiha01.vercel.app/', category: 'Especiais', icon: 'pizza' },
+  { id: 41, name: 'Casa da Esfiha', url: 'https://casa-da-esfiha02.vercel.app/', category: 'Especiais', icon: 'pizza' },
+  { id: 42, name: 'Casa da Esfiha', url: 'https://casa-da-esfiha03.vercel.app/', category: 'Especiais', icon: 'pizza' },
+  { id: 43, name: 'Casa da Esfiha', url: 'https://casa-da-esfiha04.vercel.app/', category: 'Especiais', icon: 'pizza' },
+  { id: 44, name: 'Casa da Esfiha', url: 'https://casa-da-esfiha05.vercel.app/', category: 'Especiais', icon: 'pizza' },
+  { id: 45, name: 'Casa da Esfiha', url: 'https://casa-da-esfiha06.vercel.app/', category: 'Especiais', icon: 'pizza' },
+  { id: 46, name: 'Casa da Esfiha', url: 'https://casa-da-esfiha07.vercel.app/', category: 'Especiais', icon: 'pizza' },
+  { id: 47, name: 'Casa da Esfiha', url: 'https://casa-da-esfiha08.vercel.app/', category: 'Especiais', icon: 'pizza' },
+
+  // Site Profissional
+  { id: 48, name: 'Site Profissional', url: 'https://site-profissional.vercel.app/', category: 'Portfolio', icon: 'globe' },
 ];
 
 const CATEGORIES = ['Todos', 'Estética', 'Academias', 'Automotiva', 'Mecânica', 'Especiais', 'Portfolio'];
