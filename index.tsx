@@ -4,7 +4,7 @@ import { createRoot } from 'react-dom/client';
 import { GoogleGenAI } from "@google/genai";
 import { PRODUCTS } from './PRODUCTS';
 
-const CATEGORIES = ['Todos', 'Estética', 'Academias', 'Automotiva', 'Mecânica', 'Especiais', 'Portfolio'];
+const CATEGORIES = ['Todos', 'Estética', 'Academias', 'Automotiva', 'Mecânica', 'Especiais', 'Portfolio', 'Loja de Construcao', 'Imobiliária', 'Restaurante', 'Saúde', 'Educação', 'Tecnologia', 'Moda', 'Beleza', 'Fitness', 'Viagens', 'Eventos'];
 
 // --- COMPONENTS ---
 const Icon = ({ name, className = "w-5 h-5" }) => {

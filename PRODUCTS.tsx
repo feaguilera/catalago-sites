@@ -75,4 +75,26 @@ export const PRODUCTS = [
 
   // Site Profissional
   { id: 48, name: 'Site Profissional', url: 'https://site-profissional.vercel.app/', category: 'Portfolio', icon: 'globe' },
+
+   // Loja de Construção
+   { id: 49, name: 'Loja de Construção', url: 'https://loja-de-construcao.vercel.app/', category: 'Loja de Construção', icon: 'hammer' },
+
+   // Imobiliária
+   { id: 50, name: 'Imobiliária', url: 'https://imobiliaria.vercel.app/', category: 'Imobiliária', icon: 'home' },
+
+   // Restaurante
+   { id: 51, name: 'Restaurante', url: 'https://restaurante.vercel.app/', category: 'Restaurante', icon: 'utensils' },
+
+   // Saúde
+   { id: 52, name: 'Clínica de Saúde', url: 'https://clinica-de-saude.vercel.app/', category: 'Saúde', icon: 'stethoscope' },
+
+   // Educação
+   { id: 53, name: 'Instituição de Educação', url: 'https://instituicao-de-educacao.vercel.app/', category: 'Educação', icon: 'graduation-cap' },
+
+   // Tecnologia
+   { id: 54, name: 'Empresa de Tecnologia', url: 'https://empresa-de-tecnologia.vercel.app/', category: 'Tecnologia', icon: 'laptop-code' },
+
+   // Moda
+   { id: 55, name: 'Loja de Moda', url: 'https://loja-de-moda.vercel.app/', category: 'Moda', icon: 'tshirt' },
+  { id: 48, name: 'Site Profissional', url: 'https://site-profissional.vercel.app/', category: 'Portfolio', icon: 'globe' },
 ];
